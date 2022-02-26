@@ -1,8 +1,8 @@
-# Paddle飞桨领航团创造营第二期成果展示!！
+# Paddle飞桨领航团创造营第二期成果展示
 
 ## 一、项目背景介绍
 
-随着AI领域的发展，各种深度学习算法被应用到人们日常生活中。其中，无人驾驶领域受到人们诸多关注，百度AI在此方向也有研究。
+随着AI领域的发展，各种深度学习算法被应用到人们日常生活中。其中，无人驾驶领域受到人们诸多关注，百度AI在此方向也有研究
 
 
 <img style="display: block; margin: 0 auto;" src="https://ai-studio-static-online.cdn.bcebos.com/426b928b2a1444f6b17590b8534e6791f17403dc7f0f444ebc247c4c747fd655" width = "50%" height = "50%" />
